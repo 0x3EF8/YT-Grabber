@@ -68,4 +68,3 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ```
 
-These files should help set up and document your project effectively.
