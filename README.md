@@ -66,5 +66,4 @@ YT Grabber is a simple GUI-based YouTube downloader built using Python and Tkint
 
 This project is open source and available under the [MIT License](LICENSE).
 
-```
 
